@@ -7,10 +7,9 @@ body {
     display: flex;
     background-color: #fff;
     border-radius: 15px;
-    width: 60%;
+    width: 50%;
     margin: auto;
     max-height: max-content;
-    margin-top: 10%;
     overflow: hidden;
 }
 
@@ -24,7 +23,8 @@ body {
     display: flex;
     flex-direction: column;
     padding: 20px 50px 20px 20px;
-    width: 70%;
+    width: 60%;
+    justify-content: space-between;
 }
 
 .card-type {
